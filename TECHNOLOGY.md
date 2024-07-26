@@ -32,22 +32,13 @@ Microservices are deployed as Linux based Docker container. Advantages of deploy
 
 
 ## Database - BaseX
-For the database BaseX](https://basex.org/) is chosen on following arguments:
+For the database PostgreSQL is chosen on following arguments:
 
 **Pros**
-- Native XML database
-- Fully Open Source
-- BSD license
-- Easy to setup using available Docker image
-- Cross-platform available
-- Active community
-- Multiple API's, like REST(ful) and HTTP
-- [ACID guarantees](https://docs.basex.org/wiki/Transaction_Management)
-- Many [usage examples](https://docs.basex.org/wiki/Clients) available in different programming languages
+- Flexible and supported by many cloud providers
 
 **Cons**
-- No clear use cases using BaseX
-- Versioning is not out-of-the-box available. Need to use a second database to create 'versioning', which creates an archive database and a current database. And by using RESTXQ is relatively easy to create a versioning mechanism. BaseX gave [SirixDB](https://sirix.io/) as a good alternative in case we want a NoSQL database with versioning mechanism.
+- Not a native XML database
 
 ## XML Processing 
 ### XML Validation
