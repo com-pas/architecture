@@ -13,15 +13,8 @@ SPDX-License-Identifier: CC-BY-4.0
 This site provides the architectural description of CoMPAS. It describes the [Functional Architecture](FUNCTIONAL_ARCHITECTURE.md), presenting the logical view and design decisions, as well as the [Technical Architecture](technical/TECHNICAL_ARCHITECTURE.md), presenting the deployment view. It describes the [Technology Choices](TECHNOLOGY.md) made for the project together with the motivation.
 General information about CoMPAS can be found [on the wiki at the LFE site](https://wiki.lfenergy.org/display/HOME/CoMPAS).
 
-## Open Community Calls
-We hold an open community call on the first Monday of every month (always check the calendar). The start time right now is:
-
-3:00pm - 4:00pm CET
-
-If you wish to participate, please join the [CoMPAS mailing list](https://lists.lfenergy.org/g/CoMPAS). Or contact us in the slack #compas channel on [public LFEnergy slack](http://lfenergy.slack.com/)/
-
-The schedule for the next calls can be found in the mailing list [calendar](https://lists.lfenergy.org/g/CoMPAS/calendar).
-If you want to subscribe and stay up to date about upcoming events, consider subscribing to the [CoMPAS mailing list](https://lists.lfenergy.org/g/CoMPAS).
+## Resources
+More information on the CoMPAS project can be found on the [LF energy wiki page](https://wiki.lfenergy.org/display/SHP/).
 
 ## Contributing
 Interested in contributing? Please read carefully the [CONTRIBUTING guidelines](https://com-pas.github.io/contributing/).
